@@ -1,0 +1,8 @@
+array
+----------------------------
+1] Write a programe to accept 5 cricketer runs and find average and sum also find highest run scorer 
+
+2]Write a programe to sort an array in ascending order
+
+3]Write a programe to take name as an input from user and print it in reverse 
+->param - > marap
