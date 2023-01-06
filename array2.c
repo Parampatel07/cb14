@@ -1,4 +1,4 @@
-// Write a programe to findout sum and average of 5 student marks
+// Write a programe to findout sum and average for 5 student marks 
 #include <stdio.h>
 void main()
 {
