@@ -6,3 +6,5 @@ array
 
 3]Write a programe to take name as an input from user and print it in reverse 
 ->param - > marap
+
+4]Write a programe to take 5 cricketer run for 5 matches and find sum and lowest runscorer 

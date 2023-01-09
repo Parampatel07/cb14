@@ -1,10 +1,9 @@
 // Write a programe to findout sum and average for 5 student marks 
-#include <stdio.h>
+#include<stdio.h>
 void main()
 {
     int student[5], count = 0, sum = 0;
     float average=0;
-
     for (count = 0; count < 5; count++)
     {
         printf("Enter marks of student %d ", count + 1);
