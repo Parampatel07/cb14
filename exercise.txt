@@ -20,3 +20,11 @@ array
 
 >>>>>>> d1091f811160711df1a84c5b6c01c21e4b36ec62
 4]Write a programe to take 5 cricketer run for 5 matches and find sum and lowest runscorer 
+
+function
+----------------------------
+1]Write a programe to create a area calc using calc 
+
+2]Write a programe to create a menu driven triangle printer using this link get size of triangle from user
+https://i1.faceprep.in/fp/articles/img/46684_1580817324.png
+https://i1.faceprep.in/fp/articles/img/55984_1580817324.png
