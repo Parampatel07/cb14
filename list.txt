@@ -1,0 +1,9 @@
+p - paragraph
+span - use to group words
+b - use to apply bold effect to text
+i - use to apply italic effect to text
+u - use to apply underline effect to text
+br - for new line 
+&nbsp; - for space
+h1 - h6 - for headings
+hr - for horizontal line 
